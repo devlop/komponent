@@ -1,6 +1,6 @@
 {
-    "name": "@devlop-ab/komponent",
-    "version": "1.0.3",
+    "name": "@devlop/komponent",
+    "version": "2.0.0",
     "description": "Minimalistic frontend component framework",
     "keywords": [
         "component",
