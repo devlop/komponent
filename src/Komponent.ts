@@ -11,10 +11,6 @@ interface RegisteredEventListener
     options? : boolean | AddEventListenerOptions | undefined,
 };
 
-/**
- * Features todo:
- * Solve how to add new instances dynamically of a component
- */
 class Komponent implements KomponentInterface
 {
     private config : ConfigInterface;
